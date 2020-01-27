@@ -1,24 +1,13 @@
-# README
+# OVERVIEW
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*  A user-friendly photo sharing app that was built using industry-standard, test-driven development following numerous red/green refactor cycles.
 
-Things you may want to cover:
+# LANDING PAGE
 
-* Ruby version
+<img src='grammablehome.PNG'>
 
-* System dependencies
+* Landing page will show the grams that have been added by users.
 
-* Configuration
+<img src='grammablesignin.PNG'>
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Users must be signed in to add a gram or comment on another user's gram.
