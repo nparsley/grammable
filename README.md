@@ -8,6 +8,7 @@
 <img src='grammablehome.PNG'>
 
 * Landing page will show the grams that have been added by users.
+* Grams most recently added will appear first.
 
 <img src='grammablesignin.PNG'>
 
@@ -25,4 +26,5 @@
 <img src='grammabledestroy.PNG'>
 
 * A signed-in user will be given the ability to edit or destroy grams that they created.
+* A prompt will pop-up and ask the user for verification before deleting a gram.
 
