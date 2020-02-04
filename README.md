@@ -23,7 +23,7 @@
 
 <img src='grammableuser1.PNG'>
 <img src='grammableedit1.PNG'>
-<img src='grammabledestroy1.PNG'>
+<img src='grammabledestroy2.PNG'>
 
 * A signed-in user will be given the ability to edit or destroy grams that they created.
 * A prompt will pop-up and ask the user for verification before deleting a gram.
